@@ -1,4 +1,4 @@
-# Copyright (C) 2017 Denis Orehovsky <denis.orehovsky@gmail.com>
+
 #
 # Flower Shop Ordering To Go
 # Create a flower shop application which deals in flower objects
