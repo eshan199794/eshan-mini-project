@@ -1,4 +1,3 @@
-
 #
 # Flower Shop Ordering To Go
 # Create a flower shop application which deals in flower objects
